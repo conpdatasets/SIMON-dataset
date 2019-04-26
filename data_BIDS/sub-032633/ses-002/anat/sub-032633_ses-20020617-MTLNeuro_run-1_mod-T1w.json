@@ -1,0 +1,17 @@
+{
+	"Modality": "MR",
+	"MagneticFieldStrength": 1.5,
+	"Manufacturer": "Philips",
+	"ManufacturersModelName": "T5",
+	"InstitutionName": "Montreal Neuro",
+	"StationName": "001P01MR01",
+	"SoftwareVersions": "RTNAP",
+	"ScanningSequence": "T1-FFE",
+	"SeriesNumber": 1,
+	"AcquisitionNumber": 2,
+	"SliceThickness": 1,
+	"EchoTime": 0.01008878,
+	"RepetitionTime": 0.018049,
+	"FlipAngle": 30,
+	"ReceiveCoilName": "H",
+}

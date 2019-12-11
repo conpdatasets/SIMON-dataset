@@ -44,7 +44,7 @@
             "formats": [
                 "Nifti"
             ],
-            "size" : 12,
+            "size" : "84",
             "unit" : {
                 "@type": "Annotation",
                 "value": "GB",
@@ -212,7 +212,31 @@
                     "value": "73"
                 }
             ]
-        }
+        },
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "1829"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "1"
+				}
+			]
+		},
+	{
+		"category": "logo",
+		"values": [
+			{
+				"value": "logo.png"
+			}
+		]
+	}
     ]
 }
 

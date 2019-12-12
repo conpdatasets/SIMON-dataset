@@ -44,11 +44,10 @@
             "formats": [
                 "Nifti"
             ],
-            "size" : "84",
+            "size" : 84,
             "unit" : {
                 "@type": "Annotation",
-                "value": "GB",
-                "valueIRI": ""
+                "value": "GB"
             },
             "access" : {
                 "@type": "Access",

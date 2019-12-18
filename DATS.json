@@ -212,6 +212,14 @@
                 }
             ]
         },
+	{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Simon Duchesne, CERVO Brain Research Centre, Quebec, Canada info@medics.ulaval.ca"
+				}
+			]
+		},
 		{
 			"category": "files",
 			"values": [

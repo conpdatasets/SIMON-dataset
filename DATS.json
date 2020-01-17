@@ -221,6 +221,14 @@
 			]
 		},
 		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "CONP"
+				}
+			]
+		},
+		{
 			"category": "files",
 			"values": [
 				{

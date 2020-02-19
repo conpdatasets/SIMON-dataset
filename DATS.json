@@ -51,7 +51,8 @@
             },
             "access" : {
                 "@type": "Access",
-                "landingPage" : "http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html"
+                "landingPage" : "http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html",
+		"annotation": "public"
             }
         }
     ],

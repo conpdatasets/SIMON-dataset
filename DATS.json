@@ -42,7 +42,7 @@
         {
             "@type": "DatasetDistribution",
             "formats": [
-                "Nifti"
+                "NIfTI"
             ],
             "size" : 84,
             "unit" : {

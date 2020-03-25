@@ -12,4 +12,6 @@ The Single Individual volunteer for Multiple Observations across Networks (SIMON
  
  ### Additional Information
  
- Find additional dataset information at the following [link](http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html)
+ The data was re-hosted from https://fcp-indi.s3.amazonaws.com/data/Projects/INDI/SIMON/SIMON_data.tar.gz
+
+ Find additional dataset information at the following [link](http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html).

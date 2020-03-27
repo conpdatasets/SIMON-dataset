@@ -2,3 +2,7 @@
 * annex.backend=MD5E
 * annex.largefiles=(not(mimetype=text/*))
 **/.git* annex.largefiles=nothing
+DATS.json annex.largefiles=nothing
+DATS.jsonld annex.largefiles=nothing
+DATS.jsonld annex.largefiles=nothing
+DATS.json annex.largefiles=nothing

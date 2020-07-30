@@ -256,7 +256,18 @@
 				"value": "logo.png"
 			}
 		]
-	}
+	},
+    {
+      "category": "origin",
+      "values": [
+        {
+          "institution": "Laboratoire MEDICS",
+          "city": "Quebec",
+          "province": "Quebec",
+          "country": "Canada"
+        }
+      ]
+    }
     ]
 }
 

@@ -258,16 +258,37 @@
 		]
 	},
     {
-      "category": "origin",
+      "category": "origin_institution",
       "values": [
         {
-          "institution": "Laboratoire MEDICS",
-          "city": "Quebec",
-          "province": "Quebec",
-          "country": "Canada"
+          "value": "Laboratoire MEDICS"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        { 
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        { 
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        { 
+          "value": "Canada"
         }
       ]
     }
-    ]
+  ]
 }
 

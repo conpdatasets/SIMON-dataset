@@ -1,7 +1,7 @@
 {
     "title": "SIMON",
     "description": "The Single Individual volunteer for Multiple Observations across Networks (SIMON) MRI dataset is a sample of convenience of one ambidextrous healthy male aged between 29 and 46 years old, scanned in 73 sessions at multiple sites and with various scanner models",
-    "dates": [ 
+    "dates": [
 	{
             "@type": "Date",
             "date": "2001-09-20 00:00:00",
@@ -27,7 +27,7 @@
         }
     ],
     "types": [
-        { 
+        {
             "value": "MRI",
             "valueIRI": ""
         },
@@ -37,7 +37,7 @@
         }
     ],
     "version": "1.0",
-    "privacy": "Open Access",
+    "privacy": "open",
     "distributions": [
         {
             "@type": "DatasetDistribution",

@@ -28,12 +28,26 @@
     ],
     "types": [
         {
-            "value": "MRI",
-            "valueIRI": ""
+			"information": {
+			    "identifier": {
+                    "identifier": "113091000",
+                    "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+               	},
+				{
+					"value": "MRI"
+				}
+			}
         },
-        {
-            "value": "Quality Control Subject",
-            "valueIRI": "http://uri.interlex.org/base/ilx_0381893"
+		{
+			"information": {
+			    "identifier": {
+            	    "identifier": "ilx_0381893",
+                    "identifierSource":"http://uri.interlex.org/base/ilx_0381893"
+                },
+				{
+					"value": "MRI"
+				}
+			}
         }
     ],
     "version": "1.0",

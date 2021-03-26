@@ -28,26 +28,18 @@
     ],
     "types": [
         {
-			"information": {
-			    "identifier": {
-                    "identifier": "113091000",
-                    "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
-               	},
-				{
-					"value": "MRI"
-				}
-			}
+		    "identifier": {
+                "identifier": "113091000",
+                "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+           	},
+    		"value": "MRI"
         },
 		{
-			"information": {
-			    "identifier": {
-            	    "identifier": "ilx_0381893",
-                    "identifierSource":"http://uri.interlex.org/base/ilx_0381893"
-                },
-				{
-					"value": "MRI"
-				}
-			}
+		    "identifier": {
+        	    "identifier": "ilx_0381893",
+                "identifierSource":"http://uri.interlex.org/base/ilx_0381893"
+            },
+			"value": "MRI"
         }
     ],
     "version": "1.0",

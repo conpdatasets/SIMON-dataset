@@ -67,8 +67,8 @@
     "isAbout": [
         {
             "identifier": {
-                "identifier": "9606",
-                "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
+                "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+				"identifierSource": "NCBI Taxonomy Database"
             },
             "name":"Homo sapiens"
         },
@@ -131,7 +131,6 @@
                     "name": "Fond Canadien de l'Innovation",
                     "abbreviation": "FCI"
                 }
-                 
             ]
         }
     ],
@@ -204,7 +203,7 @@
         {
             "@type": "Annotation",
             "value": "Phantom"
-        },	
+        }
         {
             "@type": "Annotation",
             "value": "MRI"
@@ -278,7 +277,7 @@
     {
       "category": "origin_city",
       "values": [
-        { 
+        {
           "value": "Quebec"
         }
       ]
@@ -286,7 +285,7 @@
     {
       "category": "origin_province",
       "values": [
-        { 
+        {
           "value": "Quebec"
         }
       ]
@@ -294,7 +293,7 @@
     {
       "category": "origin_country",
       "values": [
-        { 
+        {
           "value": "Canada"
         }
       ]

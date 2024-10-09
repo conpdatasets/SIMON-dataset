@@ -23,7 +23,7 @@
     "types": [
         {
             "value": "MRI",
-			"valueIRI": "http://uri.interlex.org/ilx_0779748"
+			      "valueIRI": "http://uri.interlex.org/ilx_0779748"
         },
         {
             "value": "Quality Control Subject",
@@ -53,7 +53,14 @@
     ],
     "isAbout": [
         {
-            "name": "adult human"
+            "identifier": {
+                "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+				"identifierSource": "NCBI Taxonomy Database"
+            },
+            "name":"Homo sapiens"
+        },
+        {
+            "name":"adult"
         }
     ],
     "licenses": [

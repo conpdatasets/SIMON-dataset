@@ -22,12 +22,16 @@
     ],
     "types": [
         {
-            "value": "MRI",
-			      "valueIRI": "http://uri.interlex.org/ilx_0779748"
+			"information": {
+	            "value": "MRI",
+				"valueIRI": "http://uri.interlex.org/ilx_0779748"
+			}
         },
         {
-            "value": "Quality Control Subject",
-            "valueIRI": "http://uri.interlex.org/ilx_0381893"
+			"information": {
+	            "value": "Quality Control Subject",
+    	        "valueIRI": "http://uri.interlex.org/ilx_0381893"
+			}
         }
     ],
     "version": "1.0",

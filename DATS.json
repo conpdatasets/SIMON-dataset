@@ -71,6 +71,7 @@
     "aggregation": "instance of dataset",
     "acknowledges" : [
         {
+			"name": "",
             "funders": [
                 {
                     "name": "Fonds de Recheche du Québec - Santé",
